@@ -1,6 +1,5 @@
 # 🐛 Problems Directory
 
-,eegf awuegfifiwhf IYF
 Welcome to the Problems Directory! This folder contains Python programming challenges with intentional errors for you to find and fix.
 
 ## 📂 Structure
